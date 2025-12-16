@@ -31,5 +31,5 @@ I enjoy working on systems where clarity, correctness, and user control matter.
 - IndexedDB / browser storage
 
 ## How to reach me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: [https://github.com/Wilson-0o0](https://github.com/Wilson-0o0)
+- LinkedIn: [https://www.linkedin.com/in/leong-wilson-0767042a6/](https://www.linkedin.com/in/leong-wilson-0767042a6/)
