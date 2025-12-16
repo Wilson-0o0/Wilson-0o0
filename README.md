@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m <a href="www.linkedin.com/in/leong-wilson-0767042a6">Wilson</a>, a software engineer interested in building practical, data-driven tools.
+I’m <a href="https://github.com/Wilson-0o0">Wilson</a>, a software engineer interested in building practical, data-driven tools.
 I enjoy working on systems where clarity, correctness, and user control matter.
 
 ## I’m currently working on
