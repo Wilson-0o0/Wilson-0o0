@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m <a href="www.linkedin.com/in/leong-wilson-0767042a6">Wilson</a>, a software engineer interested in building practical, data-driven tools.
+I enjoy working on systems where clarity, correctness, and user control matter.
+
+## I’m currently working on
+- A personal finance manager with OCR support
+- Data visualization and dashboard features
+- Improving core software engineering fundamentals through real projects
+
+## Tools I use
+- JavaScript / HTML / CSS
+- Vite
+- Chart.js
+- Tesseract.js (OCR)
+- IndexedDB / browser storage
+
+## How to reach me
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
